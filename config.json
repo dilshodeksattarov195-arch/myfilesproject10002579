@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userrync",
+        "uuid": 8270853,
+        "checksum": "iimqr3"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
